@@ -44,6 +44,7 @@
     </div>
   {% endif %}
 
+
   <!-- Entry bib key -->
   <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
     <!-- Title -->
@@ -182,6 +183,7 @@
       {{ entry.note | strip }}
     </div>
 
+
     <!-- Links/Buttons -->
     <div class="links">
       {% if entry.award %}
@@ -249,6 +251,12 @@
       {% endif %}
       {% if entry.website %}
         <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
+      {% endif %}
+      {% if entry.demo %}
+        <a href="{{ entry.demo }}" class="btn btn-sm z-depth-0" role="button">Demo</a>
+      {% endif %}
+      {% if entry.huggingface %}
+        <a href="{{ entry.huggingface }}" class="btn btn-sm z-depth-0" role="button">Huggingface</a>
       {% endif %}
     </div>
     {% if site.enable_publication_badges %}
@@ -365,5 +373,14 @@
         <div style="text-align: center;">{% include video.liquid path=entry.video class="img-fluid rounded z-depth-1" controls=true %}</div>
       </div>
     {% endif %}
+
+    <!-- TL;DR -->
+    <div class="tldr">
+      {% if entry.tldr %}
+        <strong>TL;DR:</strong> {{ entry.tldr }}
+      {% endif %}
+    </div>
+
   </div>
+
 </div>

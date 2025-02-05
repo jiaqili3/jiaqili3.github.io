@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-01-25 00:00:00-0000
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+🎉 [MaskGCT: Zero-Shot Text-to-Speech with Masked Generative Codec Transformer](https://arxiv.org/abs/2409.00750) have been accepted to ICLR 2025!
+<!-- [![GitHub stars](https://img.shields.io/github/stars/open-mmlab/Amphion)](https://github.com/open-mmlab/Amphion) -->
