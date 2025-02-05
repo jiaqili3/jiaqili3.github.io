@@ -657,5 +657,5 @@ jsonresume:
   - interests
   - references
 
-imagemagick:
-  enabled: false  # 临时禁用 ImageMagick
+# imagemagick:
+#   enabled: false  # 临时禁用 ImageMagick
