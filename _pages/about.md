@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: wyc.png
+  image: ljq.png
   image_circular: false # crops the image to make it circular
   more_info: 
 
@@ -16,6 +16,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Yuancheng Wang is a second-year Ph.D. student at [the Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen), SDS](https://sds.cuhk.edu.cn/en), supervised by Professor [Zhizheng Wu](https://drwuz.com/). before that, he received my B.S. degree at CUHK-Shenzhen. He also collaborates with [Xu Tan](https://tan-xu.github.io/) from Microsoft Research Asia.
+I am a first-year Ph.D. student at [the Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen), SDS](https://sds.cuhk.edu.cn/en), supervised by Professor [Zhizheng Wu](https://drwuz.com/). Before that, I received B.S. degree at CUHK-Shenzhen. 
 
-His research interest includes **text-to-speech synthesis**, **text-to-audio generation**, and **unified audio representation and generation**. He is one of the main contributors and leaders of the open-source [Amphion](https://github.com/open-mmlab/Amphion) toolkit. He has developed some advanced TTS models, including [NaturalSpeech 3](https://arxiv.org/abs/2403.03100), [MaskGCT](https://arxiv.org/abs/2409.00750).
+My research interest includes **text-to-speech synthesis** and **neural audio coding**. I am one of the main contributors and leaders of the open-source [Amphion](https://github.com/open-mmlab/Amphion) toolkit. Currently, I am working on open-sourcing a new neural audio codec named DualCodec and some TTS systems using DualCodec.
