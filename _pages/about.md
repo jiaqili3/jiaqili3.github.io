@@ -8,7 +8,7 @@ profile:
   align: right
   image: ljq.jpg
   image_circular: false # crops the image to make it circular
-  more_info:
+  more_info: jiaqili3[at]link.cuhk.edu.cn
 
 news: true # includes a list of news items
 internship: true # includes a list of internship items
