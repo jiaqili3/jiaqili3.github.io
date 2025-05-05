@@ -42,7 +42,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-papers-amphion-and-emila-got-accepted-by-ieee-slt-2024",
           title: '🎉 Our papers, Amphion and Emila, got accepted by IEEE SLT 2024!',
           description: "",
-          section: "News",},{id: "news-i-presented-our-new-paper-investigating-neural-audio-codecs-for-speech-language-model-based-speech-generation-in",
+          section: "News",},{id: "news-i-presented-our-new-paper-investigating-neural-audio-codecs-for-speech-language-model-based-speech-generation-in-slt-2024",
           title: 'I presented our new paper, Investigating neural audio codecs for speech language model-based...',
           description: "",
           section: "News",},{id: "news-we-released-the-amphion-v0-2-technical-report-summarizing-our-development-of-amphion-in-2024",
