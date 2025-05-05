@@ -107,6 +107,13 @@ ninja.data = [{
           window.open("mailto:%79%75%61%6E%63%68%65%6E%67%77%61%6E%67@%6C%69%6E%6B.%63%75%68%6B.%65%64%75.%63%6E", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/jiaqi-li-a94049286", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
