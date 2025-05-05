@@ -37,13 +37,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-services",
-          title: "services",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/services/";
-          },
         },{id: "dropdown-publications",
               title: "publications",
               description: "",
@@ -75,14 +68,8 @@ ninja.data = [{
           description: "Efficient, High-Quality Neural Audio Codec for Zero-Shot TTS",
           section: "Internship",handler: () => {
               window.location.href = "/internship/2/";
-            },},{id: "news-my-first-paper-about-audio-generation-and-editing-audit-audio-editing-by-following-instructions-with-latent-diffusion-models-got-accepted-by-neurips-2023",
-          title: '🎉 My first paper about audio generation and editing AUDIT: Audio Editing by...',
-          description: "",
-          section: "News",},{id: "news-we-released-amphion-v0-1-which-is-an-open-source-toolkit-for-audio-music-and-speech-generation",
+            },},{id: "news-we-released-amphion-v0-1-which-is-an-open-source-toolkit-for-audio-music-and-speech-generation",
           title: '🔥 We released Amphion v0.1 , which is an open-source toolkit for audio,...',
-          description: "",
-          section: "News",},{id: "news-our-paper-factorized-diffusion-models-are-natural-and-zero-shot-speech-synthesizers-aka-naturalspeech-3-got-accepted-by-icml-2024-as-an-oral-presentation",
-          title: '🎉 Our paper Factorized Diffusion Models are Natural and Zero-shot Speech Synthesizers, aka...',
           description: "",
           section: "News",},{id: "news-we-released-emila-an-extensive-multilingual-and-diverse-speech-dataset-for-large-scale-speech-generation-with-101k-hours-of-speech-in-six-languages-and-features-diverse-speech-with-varied-speaking-styles",
           title: '🔥 We released Emila: An Extensive, Multilingual, and Diverse Speech Dataset for Large-Scale...',
@@ -90,21 +77,18 @@ ninja.data = [{
           section: "News",},{id: "news-our-papers-amphion-and-emila-got-accepted-by-ieee-slt-2024",
           title: '🎉 Our papers, Amphion and Emila, got accepted by IEEE SLT 2024!',
           description: "",
-          section: "News",},{id: "news-our-paper-sd-eval-a-benchmark-dataset-for-spoken-dialogue-understanding-beyond-words-got-accepted-by-neurips-2024",
-          title: '🎉 Our paper, SD-Eval: A Benchmark Dataset for Spoken Dialogue Understanding Beyond Words,...',
+          section: "News",},{id: "news-i-presented-our-new-paper-investigating-neural-audio-codecs-for-speech-language-model-based-speech-generation-in",
+          title: 'I presented our new paper, Investigating neural audio codecs for speech language model-based...',
           description: "",
-          section: "News",},{id: "news-we-released-code-2-5k-stars-in-one-week-and-checkpoints-of-maskgct-which-has-been-used-in-quwan-all-voice",
-          title: '🔥 We released code (2.5k+ stars in one week) and checkpoints of MaskGCT,...',
-          description: "",
-          section: "News",},{id: "news-maskgct-zero-shot-text-to-speech-with-masked-generative-codec-transformer-have-been-accepted-to-iclr-2025",
-          title: '🎉 MaskGCT: Zero-Shot Text-to-Speech with Masked Generative Codec Transformer have been accepted to...',
+          section: "News",},{id: "news-we-released-the-amphion-v0-2-technical-report-summarizing-our-development-of-amphion-in-2024",
+          title: 'We released the Amphion v0.2 technical report, summarizing our development of Amphion in...',
           description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%75%61%6E%63%68%65%6E%67%77%61%6E%67@%6C%69%6E%6B.%63%75%68%6B.%65%64%75.%63%6E", "_blank");
+          window.open("mailto:%6A%69%61%71%69%6C%69%33@%6C%69%6E%6B.%63%75%68%6B.%65%64%75.%63%6E", "_blank");
         },
       },{
         id: 'social-linkedin',
