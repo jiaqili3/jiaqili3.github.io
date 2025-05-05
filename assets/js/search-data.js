@@ -36,7 +36,7 @@ ninja.data = [{
             },},{id: "news-we-released-amphion-v0-1-which-is-an-open-source-toolkit-for-audio-music-and-speech-generation",
           title: '🔥 We released Amphion v0.1 , which is an open-source toolkit for audio,...',
           description: "",
-          section: "News",},{id: "news-i-presented-our-paper-an-initial-investigation-of-neural-replay-simulator-for-over-the-air-adversarial-perturbations-to-automatic-speaker-verification-in-icassp-2024-in-korea-image",
+          section: "News",},{id: "news-i-presented-our-paper-an-initial-investigation-of-neural-replay-simulator-for-over-the-air-adversarial-perturbations-to-automatic-speaker-verification-in-icassp-2024-in-korea",
           title: 'I presented our paper, An initial investigation of neural replay simulator for over-the-air...',
           description: "",
           section: "News",},{id: "news-we-released-emila-an-extensive-multilingual-and-diverse-speech-dataset-for-large-scale-speech-generation-with-101k-hours-of-speech-in-six-languages-and-features-diverse-speech-with-varied-speaking-styles",
