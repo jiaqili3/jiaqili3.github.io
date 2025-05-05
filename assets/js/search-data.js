@@ -67,12 +67,12 @@ ninja.data = [{
               },
             },{id: "internship-1",
           title: '1',
-          description: "Developed on audio generation &amp; editing and larger scale text-to-speech synthesis.",
+          description: "Zero-Shot TTS with Neural Audio Codecs",
           section: "Internship",handler: () => {
               window.location.href = "/internship/1/";
             },},{id: "internship-2",
           title: '2',
-          description: "",
+          description: "Efficient, High-Quality Neural Audio Codec for Zero-Shot TTS",
           section: "Internship",handler: () => {
               window.location.href = "/internship/2/";
             },},{id: "news-my-first-paper-about-audio-generation-and-editing-audit-audio-editing-by-following-instructions-with-latent-diffusion-models-got-accepted-by-neurips-2023",
