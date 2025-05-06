@@ -59,25 +59,18 @@ ninja.data = [{
           window.open("mailto:%6A%69%61%71%69%6C%69%33@%6C%69%6E%6B.%63%75%68%6B.%65%64%75.%63%6E", "_blank");
         },
       },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.linkedin.com/in/jiaqi-li-a94049286", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=60uamz4AAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=w_KLW-4AAAAJ", "_blank");
         },
       },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/HeCheng0625", "_blank");
+          window.open("https://github.com/jiaqili3", "_blank");
         },
       },{
       id: 'light-theme',
