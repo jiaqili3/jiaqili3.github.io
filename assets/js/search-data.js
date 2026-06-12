@@ -33,6 +33,11 @@ ninja.data = [{
           description: "Efficient, High-Quality Neural Audio Codec for Zero-Shot TTS",
           section: "Internship",handler: () => {
               window.location.href = "/internship/2/";
+            },},{id: "internship-3",
+          title: '3',
+          description: "Dynamic Frame Rate Neural Audio Coding",
+          section: "Internship",handler: () => {
+              window.location.href = "/internship/3/";
             },},{id: "news-we-released-amphion-v0-1-which-is-an-open-source-toolkit-for-audio-music-and-speech-generation",
           title: '🔥 We released Amphion v0.1 , which is an open-source toolkit for audio,...',
           description: "",
@@ -50,6 +55,12 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-we-released-the-amphion-v0-2-technical-report-summarizing-our-development-of-amphion-in-2024",
           title: 'We released the Amphion v0.2 technical report, summarizing our development of Amphion in...',
+          description: "",
+          section: "News",},{id: "news-our-dualcodec-paper-was-accepted-to-interspeech-2025",
+          title: 'Our DualCodec paper was accepted to InterSpeech 2025!',
+          description: "",
+          section: "News",},{id: "news-i-presented-our-flexicodec-paper-at-iclr-2026-in-brazil",
+          title: 'I presented our FlexiCodec paper at ICLR 2026 in Brazil.',
           description: "",
           section: "News",},{
         id: 'social-email',
