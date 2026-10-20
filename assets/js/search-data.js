@@ -65,9 +65,6 @@ ninja.data = [{
           section: "News",},{id: "news-our-flexislm-paper-was-accepted-to-emnlp-2026-main-conference",
           title: 'Our FlexiSLM paper was accepted to EMNLP 2026 Main Conference!',
           description: "",
-          section: "News",},{id: "news-our-simuls2st-omni-paper-was-accepted-to-emnlp-2026-main-conference",
-          title: 'Our SimulS2ST-Omni paper was accepted to EMNLP 2026 Main Conference!',
-          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
