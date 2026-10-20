@@ -18,6 +18,6 @@ social: true # includes social icons at the bottom of the page
 
 I am a third-year Ph.D. student at [the Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen), SDS](https://sds.cuhk.edu.cn/en), supervised by Professor [Zhizheng Wu](https://drwuz.com/). Before that, I received B.S. degree at CUHK-Shenzhen.
 
-My research interest includes **speech language models**, **text-to-speech synthesis**, and **neural audio coding**. I am one of the main contributors and leaders of the open-source [Amphion](https://github.com/open-mmlab/Amphion) toolkit. My recent work includes [FlexiSLM](https://arxiv.org/abs/2606.31247), a spoken language model with dynamic and controllable frame rates, as well as DualCodec and FlexiCodec for low-frame-rate speech generation.
+My research interest includes **full-duplex spoken interaction**, **text-to-speech synthesis**, and **neural audio coding**. I am one of the main contributors and leaders of the open-source [Amphion](https://github.com/open-mmlab/Amphion) toolkit. My recent work includes [FlexiSLM](https://arxiv.org/abs/2606.31247), a spoken language model with dynamic and controllable frame rates, as well as DualCodec and FlexiCodec for low-frame-rate speech generation.
 
 **I am open to internship and full-time opportunities in 2027–2028, with a planned graduation in 2028.** Feel free to reach out by email.
